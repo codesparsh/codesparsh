@@ -9,7 +9,7 @@
 - 🔭 I’m 3rd Yr Under-Grad at BVP
 - 🌱 I’m currently learning Python
 - 👯 I’m ready to work on crazy ideas. 
-- 🤔 I’m looking for Intern Opportunities
+- :monocle_face: I’m looking for Intern Opportunities
 - 💬 Ask me about MEAN Stack
 
 
