@@ -7,9 +7,9 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m 3rd Yr Under-Grad at BVP
-- 🌱 I’m currently learning Python
+- 🐍 I’m currently learning Python
 - 👯 I’m ready to work on crazy ideas. 
-- :monocle_face: I’m looking for Intern Opportunities
+- 🧐 I’m looking for Intern Opportunities
 - 💬 Ask me about MEAN Stack
 
 
