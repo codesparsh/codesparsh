@@ -1,6 +1,6 @@
 
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up... [Sparsh]</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h2>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/l46C9SKKVKkfp3dlu/giphy.gif">
 
