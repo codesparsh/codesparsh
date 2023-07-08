@@ -6,11 +6,11 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m 4th Yr Under-Grad at BVP
-- 🐍 I’m currently learning Python
+- 🔭 I'm a software developer at <a href="https://juspay.in/" target="_blank">Juspay</a>
+- 🐍 I’m currently learning functional programming languages
 - 👯 I’m ready to work on crazy ideas. 
-- 🧐 I’m looking for Intern Opportunities
-- 💬 Ask me about MEAN Stack
+- 🧐 I’m looking for Full-time Opportunities
+- 💬 Ask me anything about MERN Stack
 
 
 ---
